@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: LTGN
+Version: 0.0.3
+Summary: Loss Trim Graph-based Network (LTGN), an unsupervised framework based on the interpretability of graph neural networks.
+Home-page: https://github.com/wzdrgi/LTGN
+Author: Zedong Wang
+Author-email: wangzedong23@mails.ucas.ac.cn
+License: MIT
+Keywords: scRNA-seq,GRN ,Deep Learning,Graph Neural Networks
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
